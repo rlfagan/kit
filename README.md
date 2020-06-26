@@ -5,6 +5,7 @@
 [![codecov](https://codecov.io/gh/go-kit/kit/branch/master/graph/badge.svg)](https://codecov.io/gh/go-kit/kit)
 [![Go Report Card](https://goreportcard.com/badge/go-kit/kit)](https://goreportcard.com/report/go-kit/kit)
 [![Sourcegraph](https://sourcegraph.com/github.com/go-kit/kit/-/badge.svg)](https://sourcegraph.com/github.com/go-kit/kit?badge)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Fkit.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Fkit?ref=badge_shield)
 
 **Go kit** is a **programming toolkit** for building microservices
 (or elegant monoliths) in Go. We solve common problems in distributed
@@ -125,3 +126,7 @@ Projects with a ★ have had particular influence on Go kit's design (or vice-ve
 - [Architecting for the Cloud](https://slideshare.net/stonse/architecting-for-the-cloud-using-netflixoss-codemash-workshop-29852233) — Netflix
 - [Dapper, a Large-Scale Distributed Systems Tracing Infrastructure](http://research.google.com/pubs/pub36356.html) — Google
 - [Your Server as a Function](http://monkey.org/~marius/funsrv.pdf) (PDF) — Twitter
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Fkit.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Fkit?ref=badge_large)
